@@ -1,0 +1,92 @@
+[
+  {
+    "id": "room001",
+    "name": "Standard Queen Room",
+    "description": "Cozy room with a comfortable queen-sized bed and all the necessary amenities.",
+    "price": 149.99,
+    "capacity": 2,
+    "amenities": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "Work Desk"],
+    "img": "https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "room002",
+    "name": "Luxury Penthouse Suite",
+    "description": "Opulent suite with a private balcony, stunning city views, and luxurious amenities.",
+    "price": 999.99,
+    "capacity": 2,
+    "amenities": [
+      "Free Wi-Fi",
+      "Flat-screen TV",
+      "Minibar",
+      "Work Desk",
+      "Private Jacuzzi",
+      "Butler Service"
+    ],
+    "img": "https://images.pexels.com/photos/2030119/pexels-photo-2030119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "room003",
+    "name": "Premium Double Room",
+    "description": "Spacious room with two comfortable double beds and all the necessary amenities.",
+    "price": 179.99,
+    "capacity": 4,
+    "amenities": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "Work Desk", "Sofa"],
+    "img": "https://images.pexels.com/photos/12119319/pexels-photo-12119319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },  
+  {
+    "id": "room004",
+    "name": "Executive King Suite",
+    "description": "Luxurious suite with a separate bedroom and living area, and all the necessary amenities.",
+    "price": 499.99,
+    "capacity": 2,
+    "amenities": [
+      "Free Wi-Fi",
+      "Flat-screen TV",
+      "Minibar",
+      "Work Desk",
+      "Balcony",
+      "Nespresso Machine",
+      "Butler Service"
+    ],
+    "img": "https://images.pexels.com/photos/6782473/pexels-photo-6782473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "room005",
+    "name": "Deluxe Ocean View Room",
+    "description": "Elegant room with breathtaking ocean views and all the necessary amenities.",
+    "price": 249.99,
+    "capacity": 2,
+    "amenities": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "Work Desk", "Private Balcony"],
+    "img": "https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "room06",
+    "name": "Family Suite",
+    "description": "Spacious suite perfect for families with a separate bedroom for kids and all the necessary amenities.",
+    "price": 349.99,
+    "capacity": 4,
+    "amenities": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "Work Desk", "Sofa Bed", "Kid's Bedroom"],
+    "img": "https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  
+  {
+    "id": "room07",
+    "name": "Deluxe King Room",
+    "description": "Luxurious room with a comfortable king-sized bed and all the necessary amenities.",
+    "price": 199.99,
+    "capacity": 2,
+    "amenities": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "Work Desk", "Sofa"],
+    "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "room014",
+    "name": "Presidential Suite",
+    "description": "The most luxurious and spacious suite with a separate living area, dining room, and all the necessary amenities.",
+    "price": 1499.99,
+    "capacity": 4,
+    "amenities": ["Free Wi-Fi", "Flat-screen TV", "Minibar", "Work Desk", "Butler Service", "Private Sauna", "Jacuzzi"],
+    "img": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+  
+  
+]
