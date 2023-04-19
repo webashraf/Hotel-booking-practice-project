@@ -10,7 +10,7 @@ const Rooms = ({ room }) => {
                 <div className="card-body">
                     <h2 className="card-title">{name}</h2>
                     <p className='font-bold text-gray-600'>#{id}</p>
-                    <p>{description}</p>
+                    <p>{description.slice(1, 80)}....</p>
                     <p>Capacity: {capacity} person only</p>
                     <h3 className='text-xl font-bold'>{price}$ only</h3>
 
