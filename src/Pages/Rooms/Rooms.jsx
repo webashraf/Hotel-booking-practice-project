@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Rooms = ({ room }) => {
-    console.log(room);
+    // console.log(room);
     const { id, name, description, price, img, capacity, amenities } = room
     return (
         <div>
